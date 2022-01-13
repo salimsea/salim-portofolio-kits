@@ -138,6 +138,10 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
+     .btn-primary{
+         margin-top: 10px;
+         margin-left: 0 !important;
+     }
     .hero h1 {
         font-family: 'Mochiy Pop P One';
         font-size: 52px;
